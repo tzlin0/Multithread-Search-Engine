@@ -1,6 +1,7 @@
 /*
- * Copyright 2022 Cheng-Hu Lin Modified from the CSE333 class from University of
- * Washington, the Department of Computer-Science
+ * Copyright 2022 Cheng-Hu Lin 
+ * My Multi-Threaded Server Project in System Programming modified from the CSE333 class from University of
+ * Washington, the Department of Computer-Science.
  */
 
 // Feature test macro for strtok_r (c.f., Linux Programming Interface p. 63)
