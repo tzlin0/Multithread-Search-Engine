@@ -7,7 +7,7 @@ Including:
 
 2) A search engine that utilizes the LinkedList and HashTable we hand crafted to implement a file system crawler, indexer and search engine in the native C language.(SearchShell.c)
 
-3)A search engine that utilizes the LinkedList and HashTable container in the standard C++ library ,instead of handcrafted C ones, to implement a file system crawler, indexer and search engine in the native C/C++ language.
+3) A search engine that utilizes the LinkedList and HashTable container in the standard C++ library ,instead of handcrafted C ones, to implement a file system crawler, indexer and search engine in the native C/C++ language.
 (SearchShell.cc)
 
 4) A multithreaded wev server front-end to the SearchShell.cc file we created previously. 
